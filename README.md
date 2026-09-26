@@ -18,3 +18,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaseen720&show_icons=true&theme=radical" alt="Yaseen's GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaseen720&theme=radical" alt="GitHub Streak" />
+</p>
