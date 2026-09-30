@@ -14,9 +14,8 @@
 ### 🚀 Featured Systems & Flagship Work
 
 - 🎬 **[YouTube Automation Command Center](https://github.com/yaseen720/youtube-automation-command-center)** — Production AI studio management platform with multi-tenant Firestore architecture, Gemini API integration, and automated WhatsApp dispatching. *[Live on Vercel](https://youtube-automation-command-center-beige.vercel.app/)*
-- 📄 **[AI PDF Assistant (RAG Engine)](https://github.com/yaseen720/AI-PDF-Assistant)** — High-precision document intelligence engine powered by LangChain, ChromaDB vector store, local Ollama, and Google Gemini.
 - 🏥 **[TherapyPlay Clinical Platform](https://github.com/yaseen720/Clarity)** — BSCS Capstone project: interactive game-based rehabilitation web app built with Next.js 15, React 19, and real-time clinical analytics.
-- 📦 **Smart Desktop POS & Inventory System** — Privacy-first desktop software featuring Scikit-Learn AI demand forecasting, CustomTkinter GUI, SQLite, and automated receipt delivery.
+- 📦 **[Smart Desktop POS & Inventory System](https://github.com/yaseen720/smart-pos-inventory-desktop)** — Privacy-first desktop software featuring Scikit-Learn AI demand forecasting, CustomTkinter GUI, SQLite, and automated receipt delivery.
 
 ---
 
